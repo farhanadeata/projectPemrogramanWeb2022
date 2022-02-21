@@ -1,1 +1,4 @@
 Silhkan tuliskan Nama, NPM dan Alamat Github Kalian
+NAMA : FARHAN ADE ATALARIK
+NPM : 2135038
+ALAMAT GITHUB :https://github.com/farhanadeata/belajarphp
